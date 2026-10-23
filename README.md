@@ -2,7 +2,7 @@
 
 Plataforma web onde funcionários e ex-funcionários avaliam empresas de forma anônima, com foco em **plano de carreira**, salários e cultura. Projeto acadêmico desenvolvido em HTML, CSS e JavaScript puros.
 
-> 🎓 Projeto da disciplina **[nome da disciplina]** – **[nome da faculdade]** – entrega em 05/12.
+> 🎓 Projeto da disciplina **Exploração digital** – **São Judas** – entrega em 05/12.
 
 ## 💡 Sobre o projeto
 
@@ -52,7 +52,7 @@ feedwork/
 
 1. Baixe ou clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/feedwork.git
+   git clone https://github.com/YasmiinAnjos/feedwork-site.git
    ```
 2. Abra o arquivo `index.html` no navegador. Não precisa instalar nada.
 
@@ -71,9 +71,10 @@ feedwork/
 
 ## 👥 Equipe
 
-- Nome do integrante 1
-- Nome do integrante 2
-- Nome do integrante 3
+- 1
+- 2
+- 3
+- 4
 
 ## 📄 Licença
 
